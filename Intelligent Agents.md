@@ -22,3 +22,7 @@
 * Software agents
 * Robotic Agents
 
+## Read also
+  * [Structure](./Structure%20of%20an%20Agent.md)
+  * [Types](./Types%20of%20Agents.md)
+  * [Uses](./Uses%20of%20Agents.md)
