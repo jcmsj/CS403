@@ -11,6 +11,8 @@
 5. Prefers rational action
 
 ## Sensors 
+ * A device that detects the change in the environment and sends the information to other electronic devices. 
+ * An agent observes its environment through sensors.
 ## Actuators
 * Machine components that convert energy into motion.
 ## Effectors
