@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9cac11a577927236",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d9caa1f29dddd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de161308489f0e39",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "45d10afb9deb8d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lec 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad9a80bbf952d20b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lec 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa911c5911dd53bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81a4e51bdc249d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelligent Agents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42abac7567279035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79a87d7af5255b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intelligent Agents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84f3eeb1d92cf35b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2fe84591a74d8b16",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0753532b2d6e13e3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cd5d0e0d38da38a5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c0f91214dddeec97",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "17ae9ef316477822",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "260e57ebbca97b47",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Intelligent Agents.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "360c4bf09bc9ede2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Intelligent Agents.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee5d7030ed25af40",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Intelligent Agents.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "79a87d7af5255b9c",
+  "lastOpenFiles": [
+    "Lec 1.md",
+    "Intelligent Agents.md",
+    "Intro.md",
+    "Types of AI.md",
+    "AI History.md",
+    "Agent Environments.md",
+    "CS300.md",
+    "Qs.md",
+    "Untitled"
+  ]
+}
